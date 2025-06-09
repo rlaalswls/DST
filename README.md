@@ -1,1 +1,1 @@
-# DST
+# Dialect to standard translation
